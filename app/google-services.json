@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "868543841171",
+    "firebase_url": "https://dosti-app-new-1592640763727.firebaseio.com",
+    "project_id": "dosti-app-new-1592640763727",
+    "storage_bucket": "dosti-app-new-1592640763727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868543841171:android:4af8fbe3e7496a02385e66",
+        "android_client_info": {
+          "package_name": "com.dosti.indian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868543841171-bpbaapo2ntj9fd4ma0089lt527tmsrt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dosti.indian",
+            "certificate_hash": "50a952727dc2dcae114c71bfc90c2aa4d571eb44"
+          }
+        },
+        {
+          "client_id": "868543841171-ji8fmmnlh0j5ugtjr1m6duglkfbg0jj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dosti.indian",
+            "certificate_hash": "ddaf97bfa2c39f5f5619df9a06ceafdd2179ce13"
+          }
+        },
+        {
+          "client_id": "868543841171-3kam0bqjlgrg2c441qo7ppvk3dd9oo9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dosti.indian",
+            "certificate_hash": "6f66beda4c67eeceda016871dacea4bbab911ef4"
+          }
+        },
+        {
+          "client_id": "868543841171-lm2ktfdt80sqls64qv0v12g33fldq7m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dosti.indian",
+            "certificate_hash": "b6ef4c853d5120a92b1ac6cc7401e501e0098a6b"
+          }
+        },
+        {
+          "client_id": "868543841171-9ov1f27ul971fdjih1pg77o5t1t6blo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LJygATkVbNHHTbLj5zVoId6bQAa9HAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868543841171-an00lau1l9rm966jtbanr9tf2mtvoure.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
